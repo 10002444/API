@@ -1,0 +1,7 @@
+C:\Users\10002444\Desktop\API\API\bin\Debug\API.exe.config
+C:\Users\10002444\Desktop\API\API\bin\Debug\API.exe
+C:\Users\10002444\Desktop\API\API\bin\Debug\API.pdb
+C:\Users\10002444\Desktop\API\API\obj\Debug\API.csprojAssemblyReference.cache
+C:\Users\10002444\Desktop\API\API\obj\Debug\API.csproj.CoreCompileInputs.cache
+C:\Users\10002444\Desktop\API\API\obj\Debug\API.exe
+C:\Users\10002444\Desktop\API\API\obj\Debug\API.pdb
